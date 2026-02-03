@@ -1,9 +1,10 @@
-# landing-page
-The Odin Project: Landing Page
+# The Odin Project: Landing Page
 
+Landing page created as part of [The Odin Project](www.theodinproject.com)
 
-Credits:
+## [Live Preview](https://mac-pac.github.io/landing-page/)
 
+### Credits:
 Ocean Hero Image: https://unsplash.com/photos/4wFqHZ1ONnM
 
 Information Image #1: https://images.unsplash.com/photo-1556388158-158ea5ccacbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
