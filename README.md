@@ -2,7 +2,7 @@
 
 Landing page created as part of [The Odin Project](www.theodinproject.com)
 
-## [Live Preview](https://mac-pac.github.io/landing-page/)
+## [Live Preview](https://marcus-cave.github.io/landing-page/)
 
 ### Credits:
 Ocean Hero Image: https://unsplash.com/photos/4wFqHZ1ONnM
